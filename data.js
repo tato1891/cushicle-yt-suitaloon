@@ -99,7 +99,7 @@ var APP_DATA = {
       ]
     }
   ],
-  "name": "Project Title",
+  "name": "prueba",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
